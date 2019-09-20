@@ -1,2 +1,2 @@
 # flair
-Small util for everyone
+a recursive web crawler, leverage goroutine and channel to maximize parallelism
