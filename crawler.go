@@ -232,9 +232,4 @@ Skipping ...  https://golang.org/pkg/
 Master Status +1 :  https://golang.org/pkg/os/
 Skipping ...  https://golang.org/
 Skipping ...  https://golang.org/
-fatal error: all goroutines are asleep - deadlock!
-goroutine 1 [chan receive]:
-main.main()
-	/home/ray/projects/gotour/exercise-web-crawler.go:54 +0x1dc
-exit status 2
 */
